@@ -1,0 +1,2 @@
+# clumping
+plink --bfile /home/iHiO10009/yuching/data/2.PRS/case_ageMatchControl_PRS/impute2_keepFinalBCControls_updatedSex_v2_targetData --clump-p1 1 --clump-r2 0.1 --clump-kb 250 --clump /home/iHiO10009/yuching/data/2.PRS/case_ageMatchControl_PRS/impute2_keepFinalBCControls_baseData_logistic_filterMAF_updateEffect.txt --clump-snp-field SNP --clump-field P --out /home/iHiO10009/yuching/data/2.PRS/case_ageMatchControl_PRS/impute2_keepFinalBCControls_targetData_clump

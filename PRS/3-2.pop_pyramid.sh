@@ -1,0 +1,7 @@
+python3 3-2.pop_pyramid_subtype.py "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalA_base_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalA_target_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalA_base.png" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalA_target.png" "Luminal A base data" "Luminal A target data"
+
+python3 3-2.pop_pyramid_subtype.py "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalB_base_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalB_target_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalB_base.png" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/luminalB_target.png" "Luminal B base data" "Luminal B target data"
+
+python3 3-2.pop_pyramid_subtype.py "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/basal_base_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/basal_target_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/basal_base.png" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/basal_target.png" "Basal-like base data" "Basal-like target data"
+
+python3 3-2.pop_pyramid_subtype.py "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/her2_base_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/her2_target_list_forKeepCmd.txt" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/her2_base.png" "/home/iHiO10009/yuching/data/2.PRS/subtype_PRS/her2_target.png" "Her2-enriched base data" "Her2-enriched target data"
